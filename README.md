@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wahab4231
 - 👀 I’m interested in Woking for you
-- 🌱 I’m currently learning Next Js, Three Js
+- 🌱 I’m currently Expanding my Knowledge with Three.Js and Gsap
 - 💞️ I’m looking to collaborate on any FE Project you Want in React and Next Js
 - 📫 How to reach me : 03230881623 Whatsapp
 - 😄 Pronouns: Aabi
